@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor 2018 (Version 22.0)-->
+  <ClassId>{7cb5adcc-e7eb-402f-9a05-e6ae7280642c}</ClassId>
+  <ClientId>{7cb5adcc-e7eb-402f-9a05-e6ae7280642c}</ClientId>
+  <DisplayName>GOB BOM Tools</DisplayName>
+  <Description>Helpful BOM Related Tools for Assemblies</Description>
+  <Assembly>BOMToolsAddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

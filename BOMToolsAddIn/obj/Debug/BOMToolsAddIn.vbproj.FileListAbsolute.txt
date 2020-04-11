@@ -1,0 +1,15 @@
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\bin\Debug\BOMToolsAddIn.dll.config
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\bin\Debug\BOMToolsAddIn.dll
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\bin\Debug\BOMToolsAddIn.pdb
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\bin\Debug\BOMToolsAddIn.xml
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.vbprojAssemblyReference.cache
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.vbproj.ResolveComReference.cache
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.frmBomTools.resources
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.frmBOMToolsHelp.resources
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.frmProcessing.resources
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.Resources.resources
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.vbproj.GenerateResource.cache
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.vbproj.CoreCompileInputs.cache
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.dll
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.xml
+C:\Users\1gombre\Work folders\GOB Stuff\GitRepos\BOMToolsAddin\BOMToolsAddIn\obj\Debug\BOMToolsAddIn.pdb

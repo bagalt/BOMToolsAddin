@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="BOMToolsAddIn" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{7cb5adcc-e7eb-402f-9a05-e6ae7280642c}" progid="BOMToolsAddIn.StandardAddInServer" threadingModel="Both" name="BOMToolsAddIn.BOMToolsAddIn.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="BOMToolsAddIn.dll" hashalg="SHA1"></file>
+</assembly>
